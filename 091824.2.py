@@ -1,4 +1,4 @@
-
+# This code is cool. It Prints stuff, imports math and does other stuff.
 import math as m
 
 print(m.sqrt(30000000))
